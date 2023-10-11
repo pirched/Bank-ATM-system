@@ -7,4 +7,4 @@ The system employs an admin to register new users and maintain their data.
 
 To run this system, you will need compilers for this code if you wish to modify it 
 But a .exe file is already provided for the existing code
-Enjoy
+Cheers! Enjoy
